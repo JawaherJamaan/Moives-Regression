@@ -43,17 +43,18 @@ The dataset is available as the ```.csv``` file. a sample of data is shown in th
 </table>
 
 
-The most important features for this study :
+The most important features for this study :<br>
 **genres**, which contained the type of moives <br>
 **cast**, which included the tweet date <br>
 **user_location** are used to identify <br>
-
-Due to the success of Neural Networks (NN) such as RNN and LSTM in Natural Language Processing (NLP), I will fit a model on the tweets to discover which covid-19 vaccine has positive feedbacks from people. 
+The regression Analysis that analyzes the relationship between two or more features
+so, here we use regression to know relationship between revenue and other features like cast and genres.
 
 
 ## Tools
 
-To achieve the goal of this dataset, such as: ```TensorFlow, matplotlib, pandas, nltk``` for discovering the data and train a model. The work will be done through Jupyter notebook.
+I used some tools to achieve the goal of this dataset, such as:<br>
+```numby, matplotlib, pandas, pickle``` for discovering the data and train a model. The work will be done through Jupyter notebook.
 
 Furthermore, the Sentiment Analysis from ```nltk``` will be used to determine the target of the data in order to train the model in supervised manner. 
 
