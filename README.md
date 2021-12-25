@@ -1,13 +1,13 @@
-# TMDB Moives Regression Project Proposal 
+# TMDB Moives Project Proposal 
 
 This repository to meet requirements for data science bootcamp with SADIA.
 
 
 # Do the highest profit films depend on the genres of film and cast?
 
-Film production is such a big industry that has the attention of just about anyone who is able to see them. 
-
-The study aims to find out which covid-19 vaccination is most successful, by analyzing the tweets of people.
+ Film production is such a big industry that has the attention of just about anyone who can see them.
+ Major studios and indie filmmakers alike spend much of their days looking for new sources of revenue 
+ this study help filmmakers decide whether or not the cast and genre of the movie affect the revenue.
 
 ## Dataset
 We have data set **tmdb-moives** that represents movies information based on TMDB rating with 10,000 records
@@ -43,7 +43,10 @@ The dataset is available as the ```.csv``` file. a sample of data is shown in th
 </table>
 
 
-Features such as **text**, which contained the tweet content, **date**, which included the tweet date, and **user_location** are used to identify the most important features for this study. 
+The most important features for this study :
+**genres**, which contained the type of moives
+**cast**, which included the tweet date
+**user_location** are used to identify 
 
 Due to the success of Neural Networks (NN) such as RNN and LSTM in Natural Language Processing (NLP), I will fit a model on the tweets to discover which covid-19 vaccine has positive feedbacks from people. 
 
