@@ -1,11 +1,11 @@
 # TMDB Moives Regression Project Proposal 
 
-This repository to meet requirements data science bootcamp with SADIA.
+This repository to meet requirements for data science bootcamp with SADIA.
 
 
 # Do the highest profit films depend on the genres of film and cast?
 
-In a short period of time and under pandemic conditions, many vaccines have been suggested. This vaccine is necessary for the safety of society, and people should take the most covid-19 vaccine that is comfortable for them. 
+Film production is such a big industry that has the attention of just about anyone who is able to see them. 
 
 The study aims to find out which covid-19 vaccination is most successful, by analyzing the tweets of people.
 
