@@ -44,9 +44,9 @@ The dataset is available as the ```.csv``` file. a sample of data is shown in th
 
 
 The most important features for this study :
-**genres**, which contained the type of moives
-**cast**, which included the tweet date
-**user_location** are used to identify 
+**genres**, which contained the type of moives <br>
+**cast**, which included the tweet date <br>
+**user_location** are used to identify <br>
 
 Due to the success of Neural Networks (NN) such as RNN and LSTM in Natural Language Processing (NLP), I will fit a model on the tweets to discover which covid-19 vaccine has positive feedbacks from people. 
 
