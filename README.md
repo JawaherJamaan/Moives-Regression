@@ -47,16 +47,16 @@ The most important features for this study :<br>
 **genres**, which contained the type of moives <br>
 **cast**, which included the tweet date <br>
 **user_location** are used to identify <br>
-The regression Analysis that analyzes the relationship between two or more features
+The Regression Analysis is the process of predicting a Label based on the features at hand
 so, here we use regression to know relationship between revenue and other features like cast and genres.
 
 
 ## Tools
-
-I used some tools to achieve the goal of this dataset, such as:<br>
-```numby, matplotlib, pandas, pickle``` for discovering the data and train a model. The work will be done through Jupyter notebook.
-
-Furthermore, the Sentiment Analysis from ```nltk``` will be used to determine the target of the data in order to train the model in supervised manner. 
+I uesd Jupyter notebook to write codes and import libraries to achieve the goal of this dataset, such as:<br>
+```numby, matplotlib, pandas``` <br>
+for EDA the data and train a model.
+ and for reqnation use  ```pickle``` will be used to analyzes the relationship between two or more features
+ the target of the data in order to train the model in supervised manner. 
 
 ## **TO DO**: 
 - Explore the data and come up with EDA phases then use a model to fit the data.  
