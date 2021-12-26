@@ -59,4 +59,4 @@ it is type of supervised learning to train the model.
 
 ## **TO DO**: 
 - I will do wrangling data and exploratory data analysis before used the model.  
-- **NOTE:** 
+
