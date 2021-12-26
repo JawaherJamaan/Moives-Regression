@@ -3,7 +3,7 @@
 This repository to meet requirements for data science bootcamp with SADIA.
 
 
-# Do the highest profit films depend on the genres of film and cast?
+# Do the highest revenue films depend on the genres of film and cast?
 
  Film production is such a big industry that has the attention of just about anyone who can see them.
  Major studios and indie filmmakers alike spend much of their days looking for new sources of revenue 
