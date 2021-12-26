@@ -53,8 +53,8 @@ so, here we use regression to know relationship between revenue and other featur
 
 ## Tools
 I uesd Jupyter notebook to write codes and import libraries to achieve the goal of this dataset, such as:<br>
-```numby, matplotlib, pandas``` for EDA the data and train a model.<br>
-and for regression use  ```pickle ,sklearn``` will be used to analyzes the relationship between two or more features
+```numby, matplotlib, pandas``` used to EDA and prepare data to train a model a.<br>
+and for regression use  ``` sklearn , LinearRegression (function)``` will be used to analyzes the relationship between two or more features
 it is type of supervised learning to train the model. 
 
 ## **TO DO**: 
