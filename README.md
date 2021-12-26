@@ -1,4 +1,4 @@
-# TMDB Moives Project Proposal 
+# TMDB Movies Project Proposal 
 
 This repository to meet requirements for data science bootcamp with SADIA.
 
@@ -10,12 +10,12 @@ This repository to meet requirements for data science bootcamp with SADIA.
  this study help filmmakers decide whether or not the cast and genre of the movie affect the revenue.
 
 ## Dataset
-We have data set **tmdb-moives** that represents movies information based on TMDB rating with 10,000 records
+We have data set **tmdb-movies** that represents movies information based on TMDB rating with 10,000 records
 and 21 features. I use this data set for extract useful information to production companies.
 This dataset can be found at [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata).
 
 
-This dataset contains Moives for the follwing genres:
+This dataset contains Movies for the following genres:
 
 - Action 
 - Animation 
