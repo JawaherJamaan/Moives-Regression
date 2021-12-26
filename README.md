@@ -44,7 +44,7 @@ The dataset is available as the ```.csv``` file. a sample of data is shown in th
 
 
 The most important features for this study :<br>
-**genres**, which contained the type of moives <br>
+**genres**, which contained the type of movies <br>
 **cast**, which included the actors name <br>
 **revenue** are used to identify (the target) <br>
 The liner Regression Analysis is the process of predicting a Label based on the features at hand
